@@ -2,14 +2,14 @@
 This project analyzes customer purchasing behavior for a supermarket using RFM Analysis (Recency, Frequency, Monetary) to identify high-value customers and optimize marketing campaign strategies.
 The goal is to turn raw customer data into actionable insights that help improve campaign acceptance, customer retention, and targeted marketing performance.
 
-Business Objective
+**Business Objective**
 To help the supermarket:
 - Identify and segment customers based on purchasing behavior
 - Understand which customer groups are most valuable
 - Improve campaign targeting using RFM and spending patterns
 - Support data-driven marketing decisions
   
-Project Overview
+**Project Overview**
 This repository includes:
 - Data cleaning & preprocessing
 - Data Understanding & Analysis
@@ -21,7 +21,7 @@ This repository includes:
 - Heatmap, Histograms, and bar charts for customer insights
 - Tableau dashboard
 
-Data Cleaning Steps
+**Data Cleaning Steps**
 Key steps performed:
 1. Handling missing values (Income median imputation, cleaning categorical anomalies)
 2. Fixing inconsistent labels
@@ -41,7 +41,7 @@ R_score, F_score, M_score
 RFM_Score (string)
 RFM_Total (numeric)
 
-Supermarket Customers Data Dictionary
+**Supermarket Customers Data Dictionary**
 
 People
 - ID: Customer's unique identifier
