@@ -1,2 +1,1 @@
-# RFM-Analysis-on-Supermarket-Customers
-Campaign Acceptance in Supermarket Customers
+# RFM Analysis in Fresh Mart Supermarket to Optimize Acceptance Campaign
