@@ -20,7 +20,7 @@ This repository includes:
 - Customer demographics visualization
 - Correlation analysis
 - RFM segmentation (Low, Medium, High)
-- Heatmap, Histograms, and bar charts for customer insights
+- Heatmap, Histograms, Pie Chart and Bar Charts for customer insights
 - Tableau dashboard
 
 **Data Cleaning Steps**
